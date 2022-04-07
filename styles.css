@@ -173,6 +173,11 @@ hr {
     width: 100px;
 
 }
+.youtube :hover {
+    height: 100px;
+    width: 100px;
+
+}
 
 .footer {
     font-family: 'Special Elite', cursive;
