@@ -180,5 +180,7 @@ hr {
 }
 
 .footer {
+    height:25px;
+   background-color: rgb(149, 241, 241); 
     font-family: 'Special Elite', cursive;
 }
